@@ -1,0 +1,36 @@
+.carouselContainer{
+  border: 40px solid #9aa598;
+}
+
+.appContainer{
+  padding: 5% 25%;
+
+}
+
+.submitBtn{
+  width: 100%;
+}
+
+.headerBackground{
+  background-color: azure;
+}
+
+@media (min-width: 600px)  {
+
+  .headerText{
+    display: inline-block;
+  }
+
+  .pageHeaderBtn{
+    float: right;
+  }
+}
+
+@media (max-width: 600px)  {
+  .floatRightContent{
+    float: right;
+  }
+}
+
+
+

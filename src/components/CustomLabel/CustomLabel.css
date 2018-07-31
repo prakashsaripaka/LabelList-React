@@ -1,0 +1,22 @@
+
+
+@media (min-width: 660px)  {
+
+  .inlineDeleteBtn{
+    position: absolute;
+    bottom: 0;
+    right:0
+  }
+}
+
+@media (max-width: 660px)  {
+.inlineDeleteBtn{
+  margin-left: 30px;
+  margin-top: 20px;
+  }
+
+  .hide{
+    display: none;
+  }
+}
+
